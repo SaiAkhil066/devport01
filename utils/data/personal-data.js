@@ -7,6 +7,5 @@ export const personalData = {
   phone: '+7989648797',
   address: 'Hyderabad, Telangana, India',
   github: 'https://github.com/SaiAkhil066',
-  twitter: 'https://twitter.com/said7388',
   resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
 }
